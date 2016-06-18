@@ -1,1 +1,1 @@
-My programming scripts from Udemy’s “Taming Big Data with Apache Spark” Course.
+My programming scripts from learning over the internet.
